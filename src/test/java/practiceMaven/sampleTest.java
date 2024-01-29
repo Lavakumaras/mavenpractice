@@ -7,6 +7,7 @@ public class sampleTest {
 	public void script3Test()
 	{
 		System.out.println("--test Sript3");
+		System.out.println("--test Sript3");
 		}
 
 	@Test(groups= "smoke")
