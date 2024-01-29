@@ -7,7 +7,13 @@ public class sampleTest {
 	public void script3Test()
 	{
 		System.out.println("--test Sript3");
+		
+		}
+	@Test(groups= {"smoke","regression"})
+	public void script5Test()
+	{
 		System.out.println("--test Sript3");
+		
 		}
 
 	@Test(groups= "smoke")
