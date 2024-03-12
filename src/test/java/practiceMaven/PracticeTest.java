@@ -14,4 +14,16 @@ public class PracticeTest {
 	{
 		System.out.println("--test Sript6");
 		}
+	
+	@Test(groups= "smoke")
+	public void script06Test()
+	{
+		System.out.println("--test Sript06");
+		}
+
+	@Test(groups= {"smoke","regression"})
+	public void script07Test()
+	{
+		System.out.println("--test Sript07");
+		}
 }
