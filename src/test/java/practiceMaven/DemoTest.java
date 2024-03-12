@@ -8,6 +8,8 @@ public void script1Test()
 {
 	System.out.println("Prathi");
 	System.out.println("----Akshata-------------");
+	System.out.println("Prathi");
+	System.out.println("----Akshata-------------");
 	
 	System.out.println("hello");
 	}
