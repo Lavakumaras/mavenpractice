@@ -26,4 +26,15 @@ public void script04Test()
 {
 	System.out.println("--test Sript04");
 	}
+
+@Test
+public void script05Test()
+{
+	System.out.println("--test Sript05");
+	}
+@Test
+public void script06Test()
+{
+	System.out.println("--test Sript06");
+	}
 }
