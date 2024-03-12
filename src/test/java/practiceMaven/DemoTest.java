@@ -7,12 +7,16 @@ public class DemoTest {
 public void script1Test()
 {
 	System.out.println("--test Sript1");
+	
+	System.out.println("hello");
 	}
 
 @Test
 public void script2Test()
 {
 	System.out.println("--test Sript2");
+	
+	System.out.println("Bye");
 	}
 
 
