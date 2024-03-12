@@ -6,6 +6,7 @@ public class DemoTest {
 @Test(groups= "smoke")
 public void script1Test()
 {
+	System.out.println("Prathi");
 	System.out.println("----Akshata-------------");
 	
 	System.out.println("hello");
