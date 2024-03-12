@@ -25,6 +25,10 @@ public void script2Test()
 	System.out.println("--test Sript2");
 	
 	System.out.println("Bye");
+	
+System.out.println("--test Sript2");
+	
+	System.out.println("Bye");
 	}
 
 
